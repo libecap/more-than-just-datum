@@ -1,5 +1,5 @@
 html {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
 nav {
@@ -16,9 +16,8 @@ nav {
 
 .logo {
   max-width: 200px;
-  display: inline-block;
 }
 
-.search {
-  display: inline-block;
+.col {
+  min-width: 6em;
 }
