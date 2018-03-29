@@ -1,0 +1,24 @@
+html {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+nav {
+  background-color: #ddd;
+}
+
+.box {
+  background-color: #fff;
+}
+
+.results {
+  background-color: #efefef;
+}
+
+.logo {
+  max-width: 200px;
+  display: inline-block;
+}
+
+.search {
+  display: inline-block;
+}
